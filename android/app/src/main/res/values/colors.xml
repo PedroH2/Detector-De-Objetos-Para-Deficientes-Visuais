@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tfe_color_primary">#000</color>
+    <color name="tfe_color_primary_dark">#000</color>
+    <color name="tfe_color_accent">#000</color>
+    <color name="vermelho">#FF00</color>
+    <color name="azul">#002AFF</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
+</resources>
